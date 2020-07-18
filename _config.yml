@@ -1,0 +1,8 @@
+title: Rexxla.GitHub.io
+description: News part of RexxLA website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
